@@ -1,0 +1,12 @@
+{
+  "name": "arabic-english-countries",
+  "version": "1.0.2",
+  "description": "This Package is used to retrieve all countries in Arabic and English Language",
+  "main": "index.js",
+  "readme": "README.md",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
