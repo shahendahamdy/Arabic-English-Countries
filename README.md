@@ -12,18 +12,16 @@ npm install arabic-english-countries
 
 ## Usage
 
-Usage
 To use this package in your TypeScript project, follow these steps:
 
 Import the package in your TypeScript file:
 
-typescript
-Copy code
+```typescript
 import \* as countries from "arabic-english-countries";
 Use the provided functions to get country names in English and Arabic:
+```
 
 typescript
-Copy code
 const englishCountryNames: string[] = countries.getCountryNamesEn();
 const arabicCountryNames: string[] = countries.getCountryNamesAr();
 Example
